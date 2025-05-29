@@ -3,8 +3,8 @@
 package main
 
 import (
-	"github.com/LUJUNQUAN/hap"
-	"github.com/LUJUNQUAN/hap/accessory"
+	"github.com/duwi2024/hap"
+	"github.com/duwi2024/hap/accessory"
 
 	"context"
 	"log"

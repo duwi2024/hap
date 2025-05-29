@@ -6,13 +6,13 @@
 //
 // The metadata file is created by running the following command on OS X
 //
-//	plutil -convert json -r -o $GOPATH/src/github.com/LUJUNQUAN/hap/gen/metadata.json /Applications/HomeKit\ Accessory\ Simulator.app/Contents/Frameworks/HAPAccessoryKit.framework/Versions/A/Resources/default.metadata.plist
+//	plutil -convert json -r -o $GOPATH/src/github.com/duwi2024/hap/gen/metadata.json /Applications/HomeKit\ Accessory\ Simulator.app/Contents/Frameworks/HAPAccessoryKit.framework/Versions/A/Resources/default.metadata.plist
 package main
 
 import (
 	"encoding/json"
-	"github.com/LUJUNQUAN/hap/gen"
-	"github.com/LUJUNQUAN/hap/gen/golang"
+	"github.com/duwi2024/hap/gen"
+	"github.com/duwi2024/hap/gen/golang"
 	"io/ioutil"
 	"log"
 	"os"
@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 )
 
-var LibPath = os.ExpandEnv("$GOPATH/src/github.com/LUJUNQUAN/hap")
+var LibPath = os.ExpandEnv("$GOPATH/src/github.com/duwi2024/hap")
 var GenPath = filepath.Join(LibPath, "gen")
 var SvcPkgPath = filepath.Join(LibPath, "service")
 var AccPkgPath = filepath.Join(LibPath, "accessory")

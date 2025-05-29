@@ -1,9 +1,9 @@
 package hap
 
 import (
-	"github.com/LUJUNQUAN/hap/accessory"
-	"github.com/LUJUNQUAN/hap/ed25519"
-	"github.com/LUJUNQUAN/hap/log"
+	"github.com/duwi2024/hap/accessory"
+	"github.com/duwi2024/hap/ed25519"
+	"github.com/duwi2024/hap/log"
 
 	"crypto/md5"
 	"crypto/rand"

@@ -1,7 +1,7 @@
 package characteristic
 
 import (
-	"github.com/LUJUNQUAN/hap/log"
+	"github.com/duwi2024/hap/log"
 
 	"fmt"
 	"net/http"

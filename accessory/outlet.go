@@ -1,7 +1,7 @@
 package accessory
 
 import (
-	"github.com/LUJUNQUAN/hap/service"
+	"github.com/duwi2024/hap/service"
 )
 
 type Outlet struct {

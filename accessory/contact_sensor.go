@@ -1,6 +1,6 @@
 package accessory
 
-import "github.com/LUJUNQUAN/hap/service"
+import "github.com/duwi2024/hap/service"
 
 type ContactSensor struct {
 	*A

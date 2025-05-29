@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	"github.com/LUJUNQUAN/hap"
-	"github.com/LUJUNQUAN/hap/accessory"
+	"github.com/duwi2024/hap"
+	"github.com/duwi2024/hap/accessory"
 	"log"
 	"os"
 	"os/signal"

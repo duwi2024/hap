@@ -1,9 +1,9 @@
 package characteristic
 
 import (
-	"github.com/LUJUNQUAN/hap/log"
-	"sync"
+	"github.com/duwi2024/hap/log"
 	"github.com/xiam/to"
+	"sync"
 
 	"encoding/json"
 	"net/http"

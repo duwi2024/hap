@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/LUJUNQUAN/hap"
-	"github.com/LUJUNQUAN/hap/accessory"
-	"github.com/LUJUNQUAN/hap/log"
+	"github.com/duwi2024/hap"
+	"github.com/duwi2024/hap/accessory"
+	"github.com/duwi2024/hap/log"
 
 	"context"
 	syslog "log"

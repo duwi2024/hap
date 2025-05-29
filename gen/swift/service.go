@@ -3,7 +3,7 @@ package swift
 import (
 	"bytes"
 	"fmt"
-	"github.com/LUJUNQUAN/hap/gen"
+	"github.com/duwi2024/hap/gen"
 	"text/template"
 )
 

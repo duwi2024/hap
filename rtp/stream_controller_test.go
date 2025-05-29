@@ -1,8 +1,8 @@
 package rtp
 
 import (
-	"github.com/LUJUNQUAN/hap/characteristic"
-	"github.com/LUJUNQUAN/hap/tlv8"
+	"github.com/duwi2024/hap/characteristic"
+	"github.com/duwi2024/hap/tlv8"
 	"testing"
 )
 

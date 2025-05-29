@@ -1,6 +1,6 @@
 package service
 
-import "github.com/LUJUNQUAN/hap/characteristic"
+import "github.com/duwi2024/hap/characteristic"
 
 const TypeAccessoryRuntimeInformation = "239"
 

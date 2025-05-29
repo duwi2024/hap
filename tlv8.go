@@ -1,7 +1,7 @@
 package hap
 
 import (
-	"github.com/LUJUNQUAN/hap/tlv8"
+	"github.com/duwi2024/hap/tlv8"
 
 	"net/http"
 )

@@ -8,15 +8,15 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/LUJUNQUAN/hap/gen"
-	"github.com/LUJUNQUAN/hap/gen/swift"
+	"github.com/duwi2024/hap/gen"
+	"github.com/duwi2024/hap/gen/swift"
 	"io/ioutil"
 	"log"
 	"os"
 	"path/filepath"
 )
 
-var LibPath = os.ExpandEnv("$GOPATH/src/github.com/LUJUNQUAN/hap")
+var LibPath = os.ExpandEnv("$GOPATH/src/github.com/duwi2024/hap")
 var GenPath = filepath.Join(LibPath, "gen")
 var MetadataPath = filepath.Join(GenPath, "metadata.json")
 

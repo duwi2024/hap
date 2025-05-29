@@ -2,7 +2,7 @@
 package service
 
 import (
-	"github.com/LUJUNQUAN/hap/characteristic"
+	"github.com/duwi2024/hap/characteristic"
 )
 
 const TypeCarbonMonoxideSensor = "7F"

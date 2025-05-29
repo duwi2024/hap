@@ -1,7 +1,7 @@
 package hap
 
 import (
-	"github.com/LUJUNQUAN/hap/hkdf"
+	"github.com/duwi2024/hap/hkdf"
 	"github.com/tadglines/go-pkgs/crypto/srp"
 
 	"crypto/sha512"

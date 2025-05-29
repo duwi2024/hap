@@ -1,4 +1,4 @@
-module github.com/LUJUNQUAN/hap
+module github.com/duwi2024/hap
 
 go 1.16
 

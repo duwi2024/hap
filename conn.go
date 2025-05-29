@@ -3,7 +3,7 @@ package hap
 import (
 	"sync"
 
-	"github.com/LUJUNQUAN/hap/log"
+	"github.com/duwi2024/hap/log"
 
 	"bufio"
 	"bytes"

@@ -1,11 +1,11 @@
 package hap
 
 import (
-	"github.com/LUJUNQUAN/hap/chacha20poly1305"
-	"github.com/LUJUNQUAN/hap/ed25519"
-	"github.com/LUJUNQUAN/hap/hkdf"
-	"github.com/LUJUNQUAN/hap/log"
-	"github.com/LUJUNQUAN/hap/tlv8"
+	"github.com/duwi2024/hap/chacha20poly1305"
+	"github.com/duwi2024/hap/ed25519"
+	"github.com/duwi2024/hap/hkdf"
+	"github.com/duwi2024/hap/log"
+	"github.com/duwi2024/hap/tlv8"
 
 	"net/http"
 )

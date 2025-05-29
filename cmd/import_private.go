@@ -7,9 +7,9 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/LUJUNQUAN/hap/gen"
-	_ "github.com/LUJUNQUAN/hap/gen/golang"
-	"github.com/LUJUNQUAN/hap/gen/meta"
+	"github.com/duwi2024/hap/gen"
+	_ "github.com/duwi2024/hap/gen/golang"
+	"github.com/duwi2024/hap/gen/meta"
 	"io/ioutil"
 	"log"
 	"os"
@@ -17,7 +17,7 @@ import (
 	"path/filepath"
 )
 
-var LibPath = os.ExpandEnv("$GOPATH/src/github.com/LUJUNQUAN/hap")
+var LibPath = os.ExpandEnv("$GOPATH/src/github.com/duwi2024/hap")
 var GenPath = filepath.Join(LibPath, "gen")
 var SvcPkgPath = filepath.Join(LibPath, "service")
 var AccPkgPath = filepath.Join(LibPath, "accessory")

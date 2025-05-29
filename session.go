@@ -3,8 +3,8 @@ package hap
 import (
 	"time"
 
-	"github.com/LUJUNQUAN/hap/chacha20poly1305"
-	"github.com/LUJUNQUAN/hap/hkdf"
+	"github.com/duwi2024/hap/chacha20poly1305"
+	"github.com/duwi2024/hap/hkdf"
 
 	"bytes"
 	"encoding/binary"

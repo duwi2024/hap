@@ -3,9 +3,9 @@ package hap
 import (
 	"time"
 
-	"github.com/LUJUNQUAN/hap/accessory"
-	"github.com/LUJUNQUAN/hap/characteristic"
-	"github.com/LUJUNQUAN/hap/log"
+	"github.com/duwi2024/hap/accessory"
+	"github.com/duwi2024/hap/characteristic"
+	"github.com/duwi2024/hap/log"
 	"github.com/xiam/to"
 
 	"encoding/json"

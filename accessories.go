@@ -1,8 +1,8 @@
 package hap
 
 import (
-	"github.com/LUJUNQUAN/hap/accessory"
-	"github.com/LUJUNQUAN/hap/log"
+	"github.com/duwi2024/hap/accessory"
+	"github.com/duwi2024/hap/log"
 
 	"net/http"
 )

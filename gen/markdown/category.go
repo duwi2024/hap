@@ -2,7 +2,7 @@ package markdown
 
 import (
 	"bytes"
-	"github.com/LUJUNQUAN/hap/gen"
+	"github.com/duwi2024/hap/gen"
 	"text/template"
 )
 

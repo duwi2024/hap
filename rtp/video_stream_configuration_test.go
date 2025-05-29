@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/LUJUNQUAN/hap/tlv8"
+	"github.com/duwi2024/hap/tlv8"
 )
 
 func TestMarhsalUnmarshalDefaultVideoStreamConfiguration(t *testing.T) {

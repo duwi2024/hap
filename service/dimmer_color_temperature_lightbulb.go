@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/LUJUNQUAN/hap/characteristic"
+	"github.com/duwi2024/hap/characteristic"
 )
 
 type DimmerColorTemperatureLightbulb struct {
