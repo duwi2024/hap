@@ -162,12 +162,6 @@ func (c *C) setValue(v interface{}, req *http.Request) (interface{}, int) {
 	oldVal := c.Val
 	c.m.Unlock()
 
-	// ignore the same newVal
-	if oldVal == newVal && !c.updateOnSameValue {
-		// no error
-		return nil, 0
-	}
-
 	if !c.validVal(newVal) {
 		return nil, -70410
 	}
